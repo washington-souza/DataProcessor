@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Washington Souza\\Downloads\\teste.bin\" binary"
+    }
+  }
+}
